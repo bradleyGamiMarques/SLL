@@ -127,7 +127,4 @@ class SinglyLinkedList {
 
 const list = new SinglyLinkedList();
 list.push('Hello');
-list.push('Goodbye');
-list.push('!');
-list.shift();
-console.log(list);
+list.push('World');

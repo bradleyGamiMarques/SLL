@@ -4,7 +4,8 @@
   "description": "A demonstration of a Singly Linked List in JavaScript using ES 2015 Class Syntax.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
